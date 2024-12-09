@@ -1,0 +1,68 @@
+h1{
+    font-size: 50px;
+    color:#ff0000;
+    text-align: center;
+    font-style: initial;
+    font-family: "標楷體"; 
+}
+h2{
+    font-size: 40px;
+    color:#000000;
+    text-align: center;
+    font-family: "標楷體"; 
+    }
+.word1{
+    color: #000000;
+    font-size:  22px;
+    font-family: "標楷體"; 
+    }
+.word2{
+    color: #000000;
+    font-size:  22px;
+    font-family: "標楷體";
+    }
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin: auto;
+    font-size:  20px;
+        
+    }
+th,td{
+    border: solid #e3a05d 2px;
+    padding: 16px;
+    
+    }
+th{
+    background-color: #ffba5d;
+    }
+.song li a{
+    color: #000000;
+    font-family: "微軟正黑體"; 
+}
+.ig{
+    color: #38c2ff;
+}
+img,video{
+    display: block;
+    margin: auto;
+    }
+.footer-menu{
+    display: block;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.footer-menu li{
+    display: inline-block;
+}
+.footer-menu li a{
+    color: #ffffff; 
+} 
+.footer-menu li a:hover{
+    color: darkorange
+}
+.infor{
+    color: #ffffff;
+    font-family: "微軟正黑體";
+}

@@ -1,0 +1,20 @@
+.mon1{
+    color: crimson
+}
+.en1{
+    color: dimgray
+}
+.price{
+    text-align: center;
+    font-style: initial;
+}
+.touch1{
+    text-align: center;
+    font-style: initial;
+    font-size: 30px;
+    font-family: "微軟正黑體";
+    color: #ffad29;
+}
+.price{
+    color: #ff0000;
+}
